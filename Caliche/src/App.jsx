@@ -1,6 +1,6 @@
-import Profile from "./components/Profile";
-import Skills from "./components/Skills";
-import Projects from "./components/Projects";
+import Profile from "/components/Profile";
+import Skills from "/components/Skills";
+import Projects from "/components/Projects";
 
 export default function App() {
   return (
